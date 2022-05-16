@@ -7,3 +7,10 @@ edition = "2021"
 [[bin]]
 name ="ferbot"
 path = "./ferbot.rs"
+
+[dependencies]
+panic-halt = "0.2.0"
+
+[dependencies.arduino-hal]
+git = "https://github.com/Rahix/avr-hal"
+features = ["arduino-uno"]
