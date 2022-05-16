@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "crates/step_manager",
+  "crates/chatterbox",
+]
