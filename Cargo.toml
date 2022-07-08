@@ -2,6 +2,7 @@
 members = [
   "crates/step_manager",
   "crates/chatterbox",
+  "crates/encoder",
   "bins"
 ]
 
