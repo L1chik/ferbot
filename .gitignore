@@ -1,7 +1,6 @@
 #Folders
 /target/
 .idea/
-**/target/
 
 Cargo.lock
 
