@@ -1,0 +1,10 @@
+[package]
+name = "encoder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dependencies.embedded-hal]
+version = "^0.2"
+features = ["unproven"]
